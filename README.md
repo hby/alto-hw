@@ -7,6 +7,12 @@
     brew install clojure/tools/clojure
     ```
 
+I used Clojure Tools release `1.10.1.763`.
+You can list the version of Clojure tools you have installed with
+```shell
+brew list clojure
+```
+
 # Run
 
 ## Server
